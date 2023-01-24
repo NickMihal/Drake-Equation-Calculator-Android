@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.NickMihal.DrakeEquationCalculator" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Drake Equation Calculator</name>
+    <description>Drake Equation Calculator</description>
+    <author>NickMihal</author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+
+    <icon src="res/icon/applogo.png" />
+    <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/icon/applogo.png" />
+
+</widget>

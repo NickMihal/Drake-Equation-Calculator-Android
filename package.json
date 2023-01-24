@@ -1,0 +1,18 @@
+{
+  "name": "Drake Equation Calculator",
+  "displayName": "Drake Equation Calculator",
+  "version": "1.0.0",
+  "description": "Drake Equation Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "NickMihal",
+  "license": "Apache-2.0",
+  "cordova": {
+    "platforms": []
+  }
+}

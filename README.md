@@ -11,6 +11,8 @@ communicative extraterrestrial civilizations in the Milky Way Galaxy
 
 <h3>
   
-There is also a Web Version: [Drake Equation Calculator Web](https://github.com/NickMihal/Drake-Equation-Calculator-Web)
+There is also a Web Version: [Drake Equation Calculator Web](https://github.com/NickMihal/Drake-Equation-Calculator-Web) <br>
 
+  [Website](https://nickmihal.github.io/Drake-Equation-Calculator-Web/)
+  
 </h3>

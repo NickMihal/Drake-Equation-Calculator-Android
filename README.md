@@ -11,7 +11,7 @@ You can find all the releases [here](https://github.com/NickMihal/Drake-Equation
 The Drake equation is a probabilistic argument used to estimate the number of active, <br>
 communicative extraterrestrial civilizations in the Milky Way Galaxy
 
-This App is created with Vs Code and Cordova
+This App is created with Vs Code and Apache Cordova
 
 <h3>
   

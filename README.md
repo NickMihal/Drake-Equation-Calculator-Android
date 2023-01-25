@@ -2,7 +2,7 @@
 
 <h3>
 
-You can Download the App here (soon to be uploaded)
+You can Download the App [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases/download/v1.0.0/Drake.Equation.Calculator.v1.0.0.apk)
   
 You can find all the releases [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases)
 
@@ -11,7 +11,7 @@ You can find all the releases [here](https://github.com/NickMihal/Drake-Equation
 The Drake equation is a probabilistic argument used to estimate the number of active, <br>
 communicative extraterrestrial civilizations in the Milky Way Galaxy
 
-This App is created with Vs Code and Cordova
+This App is created with Vs Code and Apache Cordova
 
 <h3>
   

@@ -10,9 +10,9 @@ You can find all the releases [here](https://github.com/NickMihal/Drake-Equation
 
 <h3>
   
-There is also a Web Version: [Drake Equation Calculator Web](https://github.com/NickMihal/Drake-Equation-Calculator-Web) <br>
+There is also a Web Version: [Drake Equation Calculator Web Github](https://github.com/NickMihal/Drake-Equation-Calculator-Web) <br>
 
-  [Website](https://nickmihal.github.io/Drake-Equation-Calculator-Web/)
+Visit the [Website](https://nickmihal.github.io/Drake-Equation-Calculator-Web/)
   
 </h3>
 This App is created with Vs Code and Apache Cordova <br>

@@ -4,7 +4,7 @@
 
 You can Download the App here (soon to be uploaded)
   
-You can find all the releases here (soon to be uploaded)
+You can find all the releases [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases)
 
 </h3>
 

@@ -1,5 +1,5 @@
 {
-  "name": "Drake Equation Calculator",
+  "name": "drake-equation-calculator",
   "displayName": "Drake Equation Calculator",
   "version": "1.0.0",
   "description": "Drake Equation Calculator",
@@ -11,6 +11,8 @@
     "ecosystem:cordova"
   ],
   "author": "NickMihal",
+  "email" : "development@nickmihal.addymail.com",
+  "homepage" : "https://github.com/NickMihal/Drake-Equation-Calculator-Android",
   "license": "Apache-2.0",
   "cordova": {
     "platforms": []

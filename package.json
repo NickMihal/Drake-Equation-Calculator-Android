@@ -11,8 +11,8 @@
     "ecosystem:cordova"
   ],
   "author": "NickMihal",
-  "email" : "development@nickmihal.addymail.com",
-  "homepage" : "https://github.com/NickMihal/Drake-Equation-Calculator-Android",
+  "email": "development@nickmihal.addymail.com",
+  "homepage": "https://github.com/NickMihal/Drake-Equation-Calculator-Android",
   "license": "Apache-2.0",
   "cordova": {
     "platforms": []

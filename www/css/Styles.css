@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+    color: black;
+  }
+  input[type="range"] {
+    height:13px;
+    width:250px;
+  }
+  input[type="text"] {
+    width:250px;
+  }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  .card-body {
+    background-color: white;
+    color: black;
+  }
+  

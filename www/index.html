@@ -14,33 +14,33 @@
          <link rel="stylesheet" href="css/Styles.css" />
       </head>
       <body>
-         <form>
+         <form style="text-align:center;">
             <b>R</b> (rate of star formation in our galaxy)<br />
-            <input type="range" id="R-range" min="1" max="20" value="10" /> &nbsp;&nbsp;&nbsp;
+            <input type="range" id="R-range" min="1" max="20" value="10" />
             <input type="text" id="R-text" value="10" />
             <br />
             <b>fp</b> (fraction of stars that have planets)<br />
-            <input type="range" id="fp-range" min="0" max="1" step="0.01" value="0.1" /> &nbsp;&nbsp;&nbsp;
+            <input type="range" id="fp-range" min="0" max="1" step="0.01" value="0.1" />
             <input type="text" id="fp-text" value="0.1" />
             <br />
             <b>ne</b> (fraction of planets that are in the habitable zone)<br />
-            <input type="range" id="ne-range" min="0" max="1" step="0.01" value="0.2" /> &nbsp;&nbsp;&nbsp;
+            <input type="range" id="ne-range" min="0" max="1" step="0.01" value="0.2" />
             <input type="text" id="ne-text" value="0.2" />
             <br />
             <b>fl</b> (fraction of planets that develop life)<br />
-            <input type="range" id="fl-range" min="0" max="1" step="0.01" value="0.01" /> &nbsp;&nbsp;&nbsp;
+            <input type="range" id="fl-range" min="0" max="1" step="0.01" value="0.01" />
             <input type="text" id="fl-text" value="0.01" />
             <br />
             <b>fi</b> (fraction of planets that develop intelligent life)<br />
-            <input type="range" id="fi-range" min="0" max="1" step="0.01" value="0.001" /> &nbsp;&nbsp;&nbsp;
+            <input type="range" id="fi-range" min="0" max="1" step="0.01" value="0.001" />
             <input type="text" id="fi-text" value="0.001" />
             <br />
             <b>fc</b> (fraction of planets that have civilizations that are capable of communicating)<br />
-            <input type="range" id="fc-range" min="0" max="1" step="0.01" value="0.0001" /> &nbsp;&nbsp;&nbsp;
+            <input type="range" id="fc-range" min="0" max="1" step="0.01" value="0.0001" />
             <input type="text" id="fc-text" value="0.0001" />
             <br />
             <b>L</b> (years that civilizations are able to communicate)<br />
-            <input type="range" id="L-range" min="1" max="10000" value="1000" /> &nbsp;&nbsp;&nbsp;
+            <input type="range" id="L-range" min="1" max="10000" value="1000" />
             <input type="text" id="L-text" value="1000" />
          </form>
          &nbsp;
@@ -50,7 +50,7 @@
             <input type="button" class="btn btn-secondary" id="random" value="Random" />
             <button onclick="myFunction()" class="btn btn-secondary">
                <i class="fas fa-moon"></i>
-               <span class="d-none d-md-inline">Dark Mode / Light Mode</span>
+               <span class="d-none d-md-inline"></span>Theme
                <i class="fas fa-sun"></i>
             </button>
             <div class="form-check form-switch">

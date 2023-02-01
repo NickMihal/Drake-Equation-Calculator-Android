@@ -130,11 +130,11 @@ $(document).ready(function () {
    if (currentClass === "dark-mode") {
       body.className = "light-mode";
       document.getElementsByTagName("button")[0].innerHTML =
-         '<i class="fas fa-moon"></i><span class="d-none d-md-inline">&nbsp;Dark Mode</span>';
+         '<i class="fas fa-moon"></i><span class="d-none d-md-inline"></span> Dark Mode';
    } else {
       body.className = "dark-mode";
       document.getElementsByTagName("button")[0].innerHTML =
-         '<i class="fas fa-sun"></i><span class="d-none d-md-inline">&nbsp;Light Mode</span>';
+         '<i class="fas fa-sun"></i><span class="d-none d-md-inline"></span> Light Mode';
    }
  }
  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {

@@ -1,20 +1,32 @@
 body {
-    background-color: white;
-    color: black;
-  }
-  input[type="range"] {
-    height:13px;
-    width:250px;
-  }
+  background-color: white;
+  color: black;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.card-body {
+  background-color: white;
+  color: black;
+}
+
+input[type="text"] {
+  width: 100%;
+}
+
+@media (min-width: 600px) {
   input[type="text"] {
-    width:250px;
+    width: 50%;
   }
-  .dark-mode {
-    background-color: black;
-    color: white;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  input[type="range"] {
+    width: 50%;
   }
-  .card-body {
-    background-color: white;
-    color: black;
-  }
-  
+}

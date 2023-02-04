@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget
   id="com.NickMihal.DrakeEquationCalculator"
-  version="1.4.0"
+  version="1.4.1"
   xmlns="http://www.w3.org/ns/widgets"
   xmlns:cdv="http://cordova.apache.org/ns/1.0"
 >
@@ -18,8 +18,9 @@
   <icon background="res/icon/mipmap-xhdpi/ic_launcher_background.png" density="xhdpi" foreground="res/icon/mipmap-xhdpi/ic_launcher_foreground.png" src="res/icon/mipmap-xhdpi/ic_launcher.png" />
   <icon background="res/icon/mipmap-xxhdpi/ic_launcher_background.png" density="xxhdpi" foreground="res/icon/mipmap-xxhdpi/ic_launcher_foreground.png" src="res/icon/mipmap-xxhdpi/ic_launcher.png" />
   <icon background="res/icon/mipmap-xxxhdpi/ic_launcher_background.png" density="xxxhdpi" foreground="res/icon/mipmap-xxxhdpi/ic_launcher_foreground.png" src="res/icon/mipmap-xxxhdpi/ic_launcher.png" />
+ 
+  <preference name="AndroidWindowSplashScreenBackground" value="#ffffff" />
+  <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/icon/SplashScreen~light.png" />
  </platform>
-
-<preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/icon/SplashScreen.png" />
 
 </widget>

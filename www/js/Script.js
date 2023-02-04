@@ -153,4 +153,3 @@ $(document).ready(function () {
       collapse.classList.remove("show");
    }
  }
- 

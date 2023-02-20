@@ -11,8 +11,10 @@ body {
   color: black;
 }
 
-input[type="text"] {
-  width: 100%;
+input[type="number"] {
+  height:35px;
+  width:100%;
+  border-radius: 12px;
 }
 
 @media (min-width: 600px) {

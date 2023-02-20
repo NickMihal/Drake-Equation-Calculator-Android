@@ -1,7 +1,7 @@
 {
   "name": "drake-equation-calculator",
   "displayName": "Drake Equation Calculator",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Drake Equation Calculator",
   "main": "index.js",
   "scripts": {

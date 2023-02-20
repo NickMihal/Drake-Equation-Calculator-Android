@@ -2,7 +2,7 @@
 
 <h3>
 
-You can Download the latest version of the App [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases/download/v1.4.1/Drake.Equation.Calculator.v1.4.1.apk)
+You can Download the latest version of the App [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases/download/v1.4.2/Drake.Equation.Calculator.v1.4.2.apk)
   
 You can find all the releases [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases)
 

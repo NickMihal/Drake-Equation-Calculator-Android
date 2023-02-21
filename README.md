@@ -19,10 +19,10 @@ This App is created with Vs Code and Apache Cordova <br>
 
 <br>
 
-<h3> What is the Drake equation? </h3>
+<h2><p align="center"> What is the Drake equation? </p></h2>
 
-The Drake equation is a mathematical formula used to estimate the number of detectable extraterrestrial civilizations in our galaxy. <br>
-The equation was first proposed by astrophysicist Frank Drake in 1961 as a way to organize the various factors that could influence the likelihood of the existence of extraterrestrial life.
+<p align="center"> The Drake equation is a mathematical formula used to estimate the number of detectable extraterrestrial civilizations in our galaxy. <br>
+The equation was first proposed by astrophysicist Frank Drake in 1961 as a way to organize the various factors that could influence the likelihood of the existence of extraterrestrial life. </p>
 
 <br>
 <h2><p align="center"> The Drake equation formula </p></h2>

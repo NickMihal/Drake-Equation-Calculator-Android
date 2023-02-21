@@ -1,33 +1,33 @@
 # ![Logo](https://user-images.githubusercontent.com/86963425/220344222-3c05930c-d7dd-4f80-8d00-271a9bbbad60.png)&nbsp;&nbsp;&nbsp;Drake Equation Calculator Android App
 
-<h2>
+<h3>
 
 You can Download the latest version of the App [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases/download/v1.4.2/Drake.Equation.Calculator.v1.4.2.apk)
 
-You can find all the releases [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases) </h2>
+You can find all the releases [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases) </h3>
 
-<h2>
+<h3>
 
 There is also a Web Version: [Drake Equation Calculator Web Github](https://github.com/NickMihal/Drake-Equation-Calculator-Web)
 
-Visit the [Drake Equation Calculator Website](https://nickmihal.github.io/Drake-Equation-Calculator-Web/) </h2>
+Visit the [Drake Equation Calculator Website](https://nickmihal.github.io/Drake-Equation-Calculator-Web/) </h3>
 
 <b> This App is created with Vs Code and Apache Cordova </b>
 
 <br>
 
-<h2><p align="center">:question: What is the Drake equation? :question:</p></h2>
+<h3><p align="center">:question: What is the Drake equation? :question:</p></h3>
 
 <p align="center"> The Drake equation is a mathematical formula used to estimate the number of detectable extraterrestrial civilizations in our galaxy. <br>
 The equation was first proposed by astrophysicist Frank Drake in 1961 as a way to organize the various factors that could influence the likelihood of the existence of extraterrestrial life. </p>
 
 <br>
-<h2><p align="center">:telescope: The Drake equation formula :telescope:</p></h2>
+<h3><p align="center">:telescope: The Drake equation formula :telescope:</p></h3>
 
-<h2><p align="center"> N = R ⋅ fp ⋅ ne ⋅ fl ⋅ fi ⋅ fc ⋅ L </p></h2>
+<h3><p align="center"> N = R ⋅ fp ⋅ ne ⋅ fl ⋅ fi ⋅ fc ⋅ L </p></h3>
 <br>
 
-<h2><p align="center">:book: The Drake equation formula explained :book:</p></h2>
+<h3><p align="center">:book: The Drake equation formula explained :book:</p></h3>
 
 <b>N</b> = the number of civilizations in the Milky Way galaxy with which communication might be possible <br>
 <b>R</b> = the average rate of star formation in our Galaxy <br>

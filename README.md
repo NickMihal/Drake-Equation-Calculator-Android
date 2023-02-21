@@ -12,7 +12,7 @@ There is also a Web Version: [Drake Equation Calculator Web Github](https://gith
 
 Visit the [Website](https://nickmihal.github.io/Drake-Equation-Calculator-Web/) </h2>
 
-This App is created with Vs Code and Apache Cordova <br>
+<b> This App is created with Vs Code and Apache Cordova </b>
 
 <br>
 

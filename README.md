@@ -25,10 +25,9 @@ The Drake equation is a mathematical formula used to estimate the number of dete
 The equation was first proposed by astrophysicist Frank Drake in 1961 as a way to organize the various factors that could influence the likelihood of the existence of extraterrestrial life.
 
 <br>
+<h2><p align="center"> The Drake equation formula </p></h2>
 
-<h3> The Drake equation formula </h3>
-
-<h2> N = R ⋅ fp ⋅ ne ⋅ fl ⋅ fi ⋅ fc ⋅ L </h2>
+<h2><p align="center"> N = R ⋅ fp ⋅ ne ⋅ fl ⋅ fi ⋅ fc ⋅ L </p></h2>
 <br>
 
 <h2><p align="center"> The Drake equation formula explained </p></h2>

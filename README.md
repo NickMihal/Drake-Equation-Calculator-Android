@@ -1,12 +1,12 @@
 # ![Logo](https://user-images.githubusercontent.com/86963425/220344222-3c05930c-d7dd-4f80-8d00-271a9bbbad60.png)&nbsp;&nbsp;&nbsp;Drake Equation Calculator Android App
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/license/apache-2-0/) <a href="https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases" target="_blank"><img src="https://img.shields.io/badge/All%20Releases-View%20on%20GitHub-blue?style=flat-square&logo=github"></a> [![Version](https://img.shields.io/github/v/release/NickMihal/Drake-Equation-Calculator-Android.svg?color=blue)]() 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/license/apache-2-0/) <a href="https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases" target="_blank"><img src="https://img.shields.io/badge/All%20Releases-View%20on%20GitHub-blue?logo=github"></a> 
 
 <h3>
 
 You can Download the latest version of the App [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases/download/v1.4.2/Drake.Equation.Calculator.v1.4.2.apk)
 
-You can find all the releases [here](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases) </h3>
+</h3>
 
 <h3>
 

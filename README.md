@@ -1,6 +1,6 @@
 # ![Logo](https://user-images.githubusercontent.com/86963425/220344222-3c05930c-d7dd-4f80-8d00-271a9bbbad60.png)&nbsp;&nbsp;&nbsp;Drake Equation Calculator Android App
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?logo=apache&style=for-the-badge)](https://opensource.org/license/apache-2-0/) <a href="https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases" target="_blank"><img src="https://img.shields.io/badge/All%20Releases-View%20on%20GitHub-blue?logo=github&style=for-the-badge"></a> [![Download](https://img.shields.io/badge/Download-v1.4.2-blue.svg?style=for-the-badge)](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases/download/v1.4.2/Drake.Equation.Calculator.v1.4.2.apk) ![Android](https://img.shields.io/badge/Platform-Android-green.svg?logo=android&style=for-the-badge)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?logo=apache&style=for-the-badge)](https://opensource.org/license/apache-2-0/) <a href="https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases" target="_blank"><img src="https://img.shields.io/badge/All%20Releases-View%20on%20GitHub-blue?logo=github&style=for-the-badge"></a> [![Download](https://img.shields.io/badge/Download-v1.4.2-blue.svg?logo=github&style=for-the-badge)](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases/download/v1.4.2/Drake.Equation.Calculator.v1.4.2.apk) ![Android](https://img.shields.io/badge/Platform-Android-green.svg?logo=android&style=for-the-badge)
 
 <h3>
 

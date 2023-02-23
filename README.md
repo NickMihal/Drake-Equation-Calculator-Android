@@ -1,6 +1,6 @@
 # ![Logo](https://user-images.githubusercontent.com/86963425/220344222-3c05930c-d7dd-4f80-8d00-271a9bbbad60.png)&nbsp;&nbsp;&nbsp;Drake Equation Calculator Android App
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/license/apache-2-0/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/license/apache-2-0/) [![Version](https://img.shields.io/github/v/release/NickMihal/Drake-Equation-Calculator-Android.svg)](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases)
 
 
 <h3>

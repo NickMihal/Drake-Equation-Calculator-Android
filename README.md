@@ -10,13 +10,13 @@
 </a>
 
 
+>  This App is created with Vs Code and Apache Cordova 
+
 <h3>
 
 There is also a Web Version: [Drake Equation Calculator Web Github](https://github.com/NickMihal/Drake-Equation-Calculator-Web)
 
 Visit the [Drake Equation Calculator Website](https://nickmihal.github.io/Drake-Equation-Calculator-Web/) </h3>
-
-<b> This App is created with Vs Code and Apache Cordova </b>
 
 <br>
 

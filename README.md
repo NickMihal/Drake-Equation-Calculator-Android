@@ -8,6 +8,7 @@
 <a href="https://github.com/NickMihal/Drake-Equation-Calculator-Android/wiki/How-to-build-from-source">
   <img src="https://img.shields.io/badge/Build%20from%20Source-Wiki%20Tutorial-orange?logo=mdbook&style=for-the-badge" alt="Build from Source Wiki Tutorial" />
 </a>
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan%20Results-blue.svg?style=for-the-badge&logo=virustotal&link=https://www.virustotal.com/gui/file/ed860253474c885549090c8993324cad1e0a03e240729bb183ec4e7fc3fcf621/detection)](https://www.virustotal.com/gui/file/ed860253474c885549090c8993324cad1e0a03e240729bb183ec4e7fc3fcf621/detection)
 
 
 >  This App is created with Vs Code and Apache Cordova 

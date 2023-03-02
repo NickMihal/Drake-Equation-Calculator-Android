@@ -16,9 +16,7 @@
 
 <h3>
 
-There is also a Web Version: [Drake Equation Calculator Web Github](https://github.com/NickMihal/Drake-Equation-Calculator)
-
-Visit the [Drake Equation Calculator Website](https://nickmihal.github.io/Drake-Equation-Calculator/) </h3>
+There is also a Web Version: [Visit the Drake Equation Calculator Website](https://nickmihal.github.io/Drake-Equation-Calculator/) </h3>
 
 <br>
 

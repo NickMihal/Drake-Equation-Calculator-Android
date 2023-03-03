@@ -4,7 +4,7 @@
 <a href="https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases" target="_blank"><img src="https://img.shields.io/badge/All%20Releases-View%20on%20GitHub-blue?logo=github&style=for-the-badge"></a> 
 [![Download Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-v1.4.2-blue.svg?logo=github&style=for-the-badge)](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases/download/v1.4.2/Drake.Equation.Calculator.v1.4.2.apk)
 <br>
-![Android](https://img.shields.io/badge/Platform-Android-green.svg?logo=android&style=for-the-badge)
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg?logo=android&style=for-the-badge)](https://en.wikipedia.org/wiki/Android_(operating_system))
 <a href="https://github.com/NickMihal/Drake-Equation-Calculator-Android/wiki/How-to-build-from-source">
   <img src="https://img.shields.io/badge/Build%20from%20Source-Wiki%20Tutorial-orange?logo=mdbook&style=for-the-badge" alt="Build from Source Wiki Tutorial" />
 </a>

@@ -1,5 +1,7 @@
 # ![Logo](https://user-images.githubusercontent.com/86963425/220344222-3c05930c-d7dd-4f80-8d00-271a9bbbad60.png)&nbsp;&nbsp;&nbsp;Drake Equation Calculator Android App
 
+<h2>
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?logo=apache&style=for-the-badge)](https://opensource.org/license/apache-2-0/) 
 <a href="https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases" target="_blank"><img src="https://img.shields.io/badge/All%20Releases-View%20on%20GitHub-blue?logo=github&style=for-the-badge"></a> 
 [![Download Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-v1.4.2-blue.svg?logo=github&style=for-the-badge)](https://github.com/NickMihal/Drake-Equation-Calculator-Android/releases/download/v1.4.2/Drake.Equation.Calculator.v1.4.2.apk)
@@ -9,16 +11,16 @@
   <img src="https://img.shields.io/badge/Build%20from%20Source-Wiki%20Tutorial-orange?logo=mdbook&style=for-the-badge" alt="Build from Source Wiki Tutorial" />
 </a>
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan%20Results-%234169E1?style=for-the-badge&logo=virustotal&link=https://www.virustotal.com/gui/file/ed860253474c885549090c8993324cad1e0a03e240729bb183ec4e7fc3fcf621/detection)](https://www.virustotal.com/gui/file/ed860253474c885549090c8993324cad1e0a03e240729bb183ec4e7fc3fcf621/detection)
-
-
+</h2>
 
 >  This App is created with Vs Code and Apache Cordova 
 
 <h3>
 
-:computer:There is also a Web Version: [Visit the Drake Equation Calculator Website](https://nickmihal.github.io/Drake-Equation-Calculator/) <br> <br>
-:desktop_computer:There is also a Windows Version: [Visit the Drake Equation Calculator Github](https://github.com/NickMihal/Drake-Equation-Calculator) </h3>
-
+:computer:There is also a Web Version: [Visit the Drake Equation Calculator Website](https://nickmihal.github.io/Drake-Equation-Calculator/) 
+<br> <br>
+:desktop_computer:There is also a Windows Version: [Visit the Drake Equation Calculator Github](https://github.com/NickMihal/Drake-Equation-Calculator) 
+</h3>
 <br>
 
 <h3><p align="center">:question: What is the Drake equation? :question:</p></h3>

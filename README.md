@@ -17,8 +17,10 @@
 
 <h3>
 
-:computer:There is also a Website: [Visit the Drake Equation Calculator Website](https://nickmihal.github.io/Drake-Equation-Calculator/)
-
+:computer: There is also a Website: [Visit the Drake Equation Calculator Website](https://nickmihal.github.io/Drake-Equation-Calculator/) 
+  <br>
+:computer: Web Version Github Page: [Visit the Github of the Web Version](https://github.com/NickMihal/Drake-Equation-Calculator) 
+  
 </h3>
 <br>
 
